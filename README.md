@@ -3,7 +3,11 @@ A repository listing where to find Twitch streamers on Mastodon and the Fedivers
 
 ## By Streamer
 
-* 
+Please list your streamer name first, then your Mastodon / fediverse aliases, and then any social links you want to share.
+
+* PrairiePirateYo - @prairiepirate@mastodon.gamedev.place and @prairiepirate@mastodon.art | utopiacraft.io
+
+
 
 ## Curated Lists
 
