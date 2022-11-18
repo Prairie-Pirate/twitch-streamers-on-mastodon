@@ -8,9 +8,19 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 * PrairiePirateYo - @prairiepirate@mastodon.gamedev.place and @prairiepirate@mastodon.art | utopiacraft.io
 
 
-
 ## Curated Lists
 
 ## Groups and Servers
+
+## Federated Apps, Services, Protocols
+
+* [Mastodon](https://joinmastodon.org/)
+* [Planetary](https://www.planetary.social/)
+* [Pleroma](https://pleroma.social/)
+* [Pixelfed](https://pixelfed.de/)
+* [BookWyrm](https://joinbookwyrm.com/)
+
+## Resources
+*
 
 ## Contact Us
