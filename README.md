@@ -5,8 +5,8 @@ A repository listing where to find Twitch streamers on Mastodon and the Fedivers
 
 Please list your streamer name first, then your Mastodon / fediverse aliases, and then any social links you want to share.
 
-* PrairiePirateYo - @prairiepirate@mastodon.gamedev.place and @prairiepirate@mastodon.art | utopiacraft.io
-* [YellyVonHollerlots](https://www.twitch.tv/yellyvonhollerlots) - [@yelly@creatorstudio.space](https://creatorstudio.space/@yelly)
+* [PrairiePirateYo](https://www.twitch.tv/PrairiePirateYo) - @prairiepirate@mastodon.gamedev.place and @prairiepirate@mastodon.art | utopiacraft.io
+* [YellyVonHollerlots](https://www.twitch.tv/yellyvonhollerlots) - [@yelly@creatorstudio.space](https://creatorstudio.space/@yelly) | [linktr.ee/YellyVonHollerlots](https://linktr.ee/YellyVonHollerlots)
 
 
 ## Curated Lists
