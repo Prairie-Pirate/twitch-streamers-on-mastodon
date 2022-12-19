@@ -26,5 +26,8 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 * [Getting Started With Mastodon](https://kevquirk.com/getting-started-with-mastodon/)
 * [How to run a small social network site for your friends](https://runyourown.social/)
 * [Mastodon 101](https://amandaquraishi.com/2022/11/10/mastodon-101/)
+* [Hpw to Use Mastodon - Wall Street Journal](https://www.wsj.com/story/how-to-use-mastodon-the-social-media-platform-blocked-by-elon-musks-twitter-7751455f)
+* [How to affordably claim your own space on the web](https://itch.io/blog/452289/how-to-affordably-claim-your-own-space-on-the-web)
+* [Mastodon Near Me]()
 
 ## Contact Us
