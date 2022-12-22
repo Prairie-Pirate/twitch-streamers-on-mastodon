@@ -5,6 +5,7 @@ A repository listing where to find Twitch streamers on Mastodon and the Fedivers
 
 Please list your streamer name first, then your Mastodon / fediverse aliases, and then any social links you want to share.
 
+* [D&D with Mighty Beard](https://youtube.com/@MightyBeard) - Masto: [@amightybeard@chirp.enworld.org](https://mastodon.gamedev.place/@amightybeard@chirp.enworld.org) | Dice.Camp [@amightybeard@dice.camp](https://dice.camp/@amightybeard)
 * [Jerp](https://twitch.tv/jerp) - @jerp@mastodon.gamedev.place - https://twitch.tv/jerp
 * [PrairiePirateYo](https://www.twitch.tv/PrairiePirateYo) - @prairiepirate@mastodon.gamedev.place and @prairiepirate@mastodon.art | utopiacraft.io
 * [Revealingtoomuch](https://twitch.tv/revealingtoomuch) - [@revealingtoomuch@mstdn.games](https://mastodon.gamedev.place/@revealingtoomuch@mstdn.games) | [youtube.com/revealingtoomuch](https://youtube.com/revealingtoomuch)
