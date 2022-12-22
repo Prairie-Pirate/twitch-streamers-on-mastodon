@@ -7,7 +7,7 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 
 * [Jerp](https://twitch.tv/jerp) - @jerp@mastodon.gamedev.place - https://twitch.tv/jerp
 * [PrairiePirateYo](https://www.twitch.tv/PrairiePirateYo) - @prairiepirate@mastodon.gamedev.place and @prairiepirate@mastodon.art | utopiacraft.io
-* [Revealingtoomuch](https://twitch.tv/revealingtoomuch) @revealingtoomuch@mstdn.games | youtube.com/revealingtoomuch
+* [Revealingtoomuch](https://twitch.tv/revealingtoomuch) - [@revealingtoomuch@mstdn.games](https://mastodon.gamedev.place/@revealingtoomuch@mstdn.games) | [youtube.com/revealingtoomuch](https://youtube.com/revealingtoomuch)
 * [YellyVonHollerlots](https://www.twitch.tv/yellyvonhollerlots) - [@yelly@creatorstudio.space](https://creatorstudio.space/@yelly) | [linktr.ee/YellyVonHollerlots](https://linktr.ee/YellyVonHollerlots)
 
 
