@@ -13,6 +13,7 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 
 ## Curated Lists
 * [Here’s who to follow on Mastodon for all your Windows and tech needs](https://www.windowscentral.com/software-apps/heres-who-to-follow-on-mastodon-for-all-your-windows-and-tech-needs)
+* [Various Notable Accounts (Media, Politics, Tech, Ukraine, and more)](https://docs.google.com/spreadsheets/d/1XpBPzCFf0kI6aLnYyNPC74SJqI2SXg664sR3XrWDnfU/htmlview?usp=sharing)
 
 ## Groups and Servers
 * @mstdn.games
