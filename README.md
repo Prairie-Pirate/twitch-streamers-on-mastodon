@@ -32,7 +32,7 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 * [User Generated Content and the Fediverse: A Legal Primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
 * [Hpw to Use Mastodon - Wall Street Journal](https://www.wsj.com/story/how-to-use-mastodon-the-social-media-platform-blocked-by-elon-musks-twitter-7751455f)
 * [How to affordably claim your own space on the web](https://itch.io/blog/452289/how-to-affordably-claim-your-own-space-on-the-web)
-* [How To Make The Fediverse Your Own]
+* [How To Make The Fediverse Your Own](https://wiki.social.coop/How-to-make-the-fediverse-your-own.html)
 
 ## Contact Us
 
