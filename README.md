@@ -12,8 +12,10 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 
 
 ## Curated Lists
+* [Here’s who to follow on Mastodon for all your Windows and tech needs](https://www.windowscentral.com/software-apps/heres-who-to-follow-on-mastodon-for-all-your-windows-and-tech-needs)
 
 ## Groups and Servers
+* @mstdn.games
 
 ## Federated Apps, Services, Protocols
 
@@ -27,7 +29,11 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 * [Getting Started With Mastodon](https://kevquirk.com/getting-started-with-mastodon/)
 * [How to run a small social network site for your friends](https://runyourown.social/)
 * [Mastodon 101](https://amandaquraishi.com/2022/11/10/mastodon-101/)
+* [User Generated Content and the Fediverse: A Legal Primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
 * [Hpw to Use Mastodon - Wall Street Journal](https://www.wsj.com/story/how-to-use-mastodon-the-social-media-platform-blocked-by-elon-musks-twitter-7751455f)
 * [How to affordably claim your own space on the web](https://itch.io/blog/452289/how-to-affordably-claim-your-own-space-on-the-web)
+* [How To Make The Fediverse Your Own]
 
 ## Contact Us
+
+* Prairiepirate@utopiacraft.io | [Website](https://utopiacraft.io/contact-pirate/)
