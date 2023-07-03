@@ -1,6 +1,8 @@
 # Twitch Streamers on Mastodon
 A repository listing where to find Twitch streamers on Mastodon and the Fediverse
 
+Last updates: July 3, 2023
+
 ## By Streamer
 
 Please list your streamer name first, then your Mastodon / fediverse aliases, and then any social links you want to share.
@@ -11,13 +13,16 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 * [Revealingtoomuch](https://twitch.tv/revealingtoomuch) - [@revealingtoomuch@mstdn.games](https://mastodon.gamedev.place/@revealingtoomuch@mstdn.games) | [youtube.com/revealingtoomuch](https://youtube.com/revealingtoomuch)
 * [YellyVonHollerlots](https://www.twitch.tv/yellyvonhollerlots) - [@yelly@creatorstudio.space](https://creatorstudio.space/@yelly) | [linktr.ee/YellyVonHollerlots](https://linktr.ee/YellyVonHollerlots)
 * [ahoneybunn](https://www.twitch.tv/ahoneybunn) - [@ahoneybunn@creatorstudio.space](https://creatorstudio.space/@ahoneybunn)
+* [Halefa](https://twitch.tv/halefa) - @Halefa@streamers.social Web: (https://halefa.com/)
 
+  
 ## Curated Lists
 * [Here’s who to follow on Mastodon for all your Windows and tech needs](https://www.windowscentral.com/software-apps/heres-who-to-follow-on-mastodon-for-all-your-windows-and-tech-needs)
 * [Various Notable Accounts (Media, Politics, Tech, Ukraine, and more)](https://docs.google.com/spreadsheets/d/1XpBPzCFf0kI6aLnYyNPC74SJqI2SXg664sR3XrWDnfU/htmlview?usp=sharing)
 
 ## Groups and Servers
 * @mstdn.games
+* [@streamers.social](https://streamers.social/e)
 
 ## Federated Apps, Services, Protocols
 
