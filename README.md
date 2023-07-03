@@ -10,7 +10,7 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 * [PrairiePirateYo](https://www.twitch.tv/PrairiePirateYo) - @prairiepirate@mastodon.gamedev.place and @prairiepirate@mastodon.art | utopiacraft.io
 * [Revealingtoomuch](https://twitch.tv/revealingtoomuch) - [@revealingtoomuch@mstdn.games](https://mastodon.gamedev.place/@revealingtoomuch@mstdn.games) | [youtube.com/revealingtoomuch](https://youtube.com/revealingtoomuch)
 * [YellyVonHollerlots](https://www.twitch.tv/yellyvonhollerlots) - [@yelly@creatorstudio.space](https://creatorstudio.space/@yelly) | [linktr.ee/YellyVonHollerlots](https://linktr.ee/YellyVonHollerlots)
-
+* [ahoneybunn](https://www.twitch.tv/ahoneybunn) - [@ahoneybunn@creatorstudio.space](https://creatorstudio.space/@ahoneybunn)
 
 ## Curated Lists
 * [Here’s who to follow on Mastodon for all your Windows and tech needs](https://www.windowscentral.com/software-apps/heres-who-to-follow-on-mastodon-for-all-your-windows-and-tech-needs)
