@@ -22,7 +22,8 @@ Please list your streamer name first, then your Mastodon / fediverse aliases, an
 
 ## Groups and Servers
 * @mstdn.games
-* [@streamers.social](https://streamers.social/e)
+* [@streamers.social](https://streamers.social/explore)
+* [@creatorstudio.space](https://creatorstudio.space/explore)
 
 ## Federated Apps, Services, Protocols
 
